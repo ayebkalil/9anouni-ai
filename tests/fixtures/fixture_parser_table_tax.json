@@ -1,0 +1,1 @@
+{"run_id": "test-run", "source_id": "src-fixture-table", "page_id": "p0001", "blocks": [{"block_id": "b1", "type": "column_body", "bbox": [0, 0, 100, 100], "text": "الفصل 10\nجدول الضرائب\nالنسبة | المبلغ\n10% | 1000\n20% | 2000", "language": "ar"}]}

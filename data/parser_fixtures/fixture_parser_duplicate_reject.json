@@ -1,0 +1,32 @@
+[
+  {
+    "article_id": "tax:article-53",
+    "article_number": "53",
+    "hierarchy_path": "Chapter 1",
+    "text_ar": "Text one",
+    "source_ref": {
+      "source_id": "src-dup",
+      "page_ids": [
+        "p1"
+      ],
+      "blocks": [
+        "b1"
+      ]
+    }
+  },
+  {
+    "article_id": "tax:article-53",
+    "article_number": "53",
+    "hierarchy_path": "Chapter 1",
+    "text_ar": "Text two",
+    "source_ref": {
+      "source_id": "src-dup",
+      "page_ids": [
+        "p2"
+      ],
+      "blocks": [
+        "b2"
+      ]
+    }
+  }
+]

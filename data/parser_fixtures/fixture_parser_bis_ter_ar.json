@@ -1,0 +1,23 @@
+[
+  {
+    "page_id": "p002",
+    "source_id": "src-ar-bis-ter",
+    "blocks": [
+      {
+        "block_id": "b1",
+        "text": "الفصل 12 - يعاقب بالسجن...",
+        "language": "ar"
+      },
+      {
+        "block_id": "b2",
+        "text": "الفصل 12 مكرر - تضاعف العقوبة...",
+        "language": "ar"
+      },
+      {
+        "block_id": "b3",
+        "text": "الفصل 12 ثالثا - لا تنطبق أحكام الفصل...",
+        "language": "ar"
+      }
+    ]
+  }
+]

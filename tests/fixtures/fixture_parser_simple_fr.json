@@ -1,0 +1,1 @@
+{"run_id": "test-run", "source_id": "src-fixture-fr", "page_id": "p0001", "blocks": [{"block_id": "b1", "type": "column_body", "bbox": [0, 0, 100, 100], "text": "Livre I\nChapitre I\nArticle premier\nCeci est le premier article.\nArticle 2\nCeci est le deuxieme article.\nArticle 3\nCeci est le troisieme article.", "language": "fr"}]}

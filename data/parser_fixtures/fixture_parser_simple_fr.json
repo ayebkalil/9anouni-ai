@@ -1,0 +1,33 @@
+[
+  {
+    "page_id": "p001",
+    "source_id": "src-fr-test",
+    "blocks": [
+      {
+        "block_id": "b1",
+        "text": "Titre premier - Dispositions Générales",
+        "language": "fr"
+      },
+      {
+        "block_id": "b2",
+        "text": "Chapitre I - Les Définitions",
+        "language": "fr"
+      },
+      {
+        "block_id": "b3",
+        "text": "Article premier - Le présent code régit les relations de travail.",
+        "language": "fr"
+      },
+      {
+        "block_id": "b4",
+        "text": "Article 2 - Est considéré comme travailleur toute personne qui s'engage...",
+        "language": "fr"
+      },
+      {
+        "block_id": "b5",
+        "text": "Article 3 - Les dispositions du présent code s'appliquent...",
+        "language": "fr"
+      }
+    ]
+  }
+]

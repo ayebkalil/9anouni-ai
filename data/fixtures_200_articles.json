@@ -1,0 +1,4002 @@
+[
+  {
+    "version_id": "23ae94a6-e8bc-427a-aee5-54ef5e376307",
+    "article_id": "constitution_2014:article-1",
+    "code_id": "constitution_2014",
+    "article_number": "1",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 1 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 1 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0001"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "5ae3857e-8962-4f53-b311-d9138fd9f0e6",
+    "article_id": "constitution_2014:article-2",
+    "code_id": "constitution_2014",
+    "article_number": "2",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 2 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 2 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0001"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "fc05d986-84ce-443a-b38b-769192024c6b",
+    "article_id": "constitution_2014:article-3",
+    "code_id": "constitution_2014",
+    "article_number": "3",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 3 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 3 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0001"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "3e688a03-1402-4cfe-925e-7064c5891429",
+    "article_id": "constitution_2014:article-4",
+    "code_id": "constitution_2014",
+    "article_number": "4",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 4 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 4 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0001"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "190f47ab-80f9-46b8-8348-3da5603d7d60",
+    "article_id": "constitution_2014:article-5",
+    "code_id": "constitution_2014",
+    "article_number": "5",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 5 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 5 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a393793a-699a-468c-9042-f77d8dc679ee",
+    "article_id": "constitution_2014:article-6",
+    "code_id": "constitution_2014",
+    "article_number": "6",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 6 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 6 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ea2de048-ae9c-4602-b8ec-199a13aada06",
+    "article_id": "constitution_2014:article-7",
+    "code_id": "constitution_2014",
+    "article_number": "7",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 7 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 7 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ce1b40fb-8c33-4193-a23c-dac586beacbd",
+    "article_id": "constitution_2014:article-8",
+    "code_id": "constitution_2014",
+    "article_number": "8",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 8 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 8 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ca47db59-24a5-4070-96b8-594a6c3e6c1b",
+    "article_id": "constitution_2014:article-9",
+    "code_id": "constitution_2014",
+    "article_number": "9",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 9 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 9 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "3eb85531-baf4-433e-8890-3ad15f78c53c",
+    "article_id": "constitution_2014:article-10",
+    "code_id": "constitution_2014",
+    "article_number": "10",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 10 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 10 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7e453229-983a-418e-8afd-30518d930ef7",
+    "article_id": "constitution_2014:article-11",
+    "code_id": "constitution_2014",
+    "article_number": "11",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 11 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 11 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a1e658a1-9515-4e82-8414-f96d13aeafea",
+    "article_id": "constitution_2014:article-12",
+    "code_id": "constitution_2014",
+    "article_number": "12",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 12 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 12 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "76b95fc9-1a2c-420d-a621-cc0f6bc23376",
+    "article_id": "constitution_2014:article-13",
+    "code_id": "constitution_2014",
+    "article_number": "13",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 13 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 13 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b5a1a1af-9b07-4293-94cf-9f04c7f22bd3",
+    "article_id": "constitution_2014:article-14",
+    "code_id": "constitution_2014",
+    "article_number": "14",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 14 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 14 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6ccfb4e2-eb5a-45be-a4db-b43988d810eb",
+    "article_id": "constitution_2014:article-15",
+    "code_id": "constitution_2014",
+    "article_number": "15",
+    "hierarchy_path": "الباب 1 > الأحكام العامة || Chapitre 1 > Dispositions Générales",
+    "text_ar": "الفصل 15 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 15 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ab6dc6f5-28e5-4b8a-8f26-83e23bbf3faf",
+    "article_id": "constitution_2014:article-16",
+    "code_id": "constitution_2014",
+    "article_number": "16",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 16 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 16 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "db665cf6-041c-4382-b95e-46ebfb9f5c24",
+    "article_id": "constitution_2014:article-17",
+    "code_id": "constitution_2014",
+    "article_number": "17",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 17 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 17 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "52cccdfa-945b-490e-a01c-453dd0cc22b1",
+    "article_id": "constitution_2014:article-18",
+    "code_id": "constitution_2014",
+    "article_number": "18",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 18 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 18 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2152dffd-3d2a-411f-9032-7a71b89b76d9",
+    "article_id": "constitution_2014:article-19",
+    "code_id": "constitution_2014",
+    "article_number": "19",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 19 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 19 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "584570f4-9e34-452f-a623-d552067f934c",
+    "article_id": "constitution_2014:article-20",
+    "code_id": "constitution_2014",
+    "article_number": "20",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 20 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 20 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "63cf91d1-7dd9-4da0-b143-36c01b6212f0",
+    "article_id": "constitution_2014:article-21",
+    "code_id": "constitution_2014",
+    "article_number": "21",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 21 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 21 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "eb1f26ef-80e0-42e2-8ef0-62c356e36142",
+    "article_id": "constitution_2014:article-22",
+    "code_id": "constitution_2014",
+    "article_number": "22",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 22 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 22 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ad317640-7b4e-4319-8111-9749ced4c989",
+    "article_id": "constitution_2014:article-23",
+    "code_id": "constitution_2014",
+    "article_number": "23",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 23 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 23 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2f911f51-f5af-4054-a623-5efbdb9999dd",
+    "article_id": "constitution_2014:article-24",
+    "code_id": "constitution_2014",
+    "article_number": "24",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 24 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 24 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "fa53c1c3-8d3c-428b-b81c-b9400b40190b",
+    "article_id": "constitution_2014:article-25",
+    "code_id": "constitution_2014",
+    "article_number": "25",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 25 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 25 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ad61f5de-92a2-43f2-b9f8-e7326db57501",
+    "article_id": "constitution_2014:article-26",
+    "code_id": "constitution_2014",
+    "article_number": "26",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 26 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 26 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "e47fbbd1-a8eb-4cab-901f-4d3f5368fed1",
+    "article_id": "constitution_2014:article-27",
+    "code_id": "constitution_2014",
+    "article_number": "27",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 27 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 27 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1ff7b8ae-3da2-498f-9c7a-c9bb54c5b17b",
+    "article_id": "constitution_2014:article-28",
+    "code_id": "constitution_2014",
+    "article_number": "28",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 28 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 28 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cd4db81b-8559-4c26-b48d-743ba4f789e2",
+    "article_id": "constitution_2014:article-29",
+    "code_id": "constitution_2014",
+    "article_number": "29",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 29 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 29 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b8869413-42aa-4fa0-9f3b-30c3835ab8e0",
+    "article_id": "constitution_2014:article-30",
+    "code_id": "constitution_2014",
+    "article_number": "30",
+    "hierarchy_path": "الباب 2 > الأحكام العامة || Chapitre 2 > Dispositions Générales",
+    "text_ar": "الفصل 30 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 30 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "5fadd3ca-6489-4bb3-8982-b0c57fd6734c",
+    "article_id": "constitution_2014:article-31",
+    "code_id": "constitution_2014",
+    "article_number": "31",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 31 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 31 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "379536a5-7951-4807-9f5e-7d06667b4be7",
+    "article_id": "constitution_2014:article-32",
+    "code_id": "constitution_2014",
+    "article_number": "32",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 32 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 32 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a04bfec5-267c-4780-ad4a-45bb1854c9b3",
+    "article_id": "constitution_2014:article-33",
+    "code_id": "constitution_2014",
+    "article_number": "33",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 33 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 33 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cd95e776-8995-4fc8-bd8e-da8fc9d63b46",
+    "article_id": "constitution_2014:article-34",
+    "code_id": "constitution_2014",
+    "article_number": "34",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 34 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 34 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "88cc3709-e5f8-4b25-b72b-776a09f189d2",
+    "article_id": "constitution_2014:article-35",
+    "code_id": "constitution_2014",
+    "article_number": "35",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 35 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 35 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "9ff32326-0b16-452b-8d2b-43ef1263c929",
+    "article_id": "constitution_2014:article-36",
+    "code_id": "constitution_2014",
+    "article_number": "36",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 36 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 36 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d9b93988-ebf2-4ece-bffe-b241f20b5cb8",
+    "article_id": "constitution_2014:article-37",
+    "code_id": "constitution_2014",
+    "article_number": "37",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 37 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 37 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "fde3e881-b693-4195-ad22-707e8114c61b",
+    "article_id": "constitution_2014:article-38",
+    "code_id": "constitution_2014",
+    "article_number": "38",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 38 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 38 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7b596b7d-1d56-4f51-8375-b0c7e6681223",
+    "article_id": "constitution_2014:article-39",
+    "code_id": "constitution_2014",
+    "article_number": "39",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 39 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 39 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4c481365-55e2-4878-b85f-08fef6f024e6",
+    "article_id": "constitution_2014:article-40",
+    "code_id": "constitution_2014",
+    "article_number": "40",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 40 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 40 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "68fec376-32d2-4910-8d81-9c7be0c0de53",
+    "article_id": "constitution_2014:article-41",
+    "code_id": "constitution_2014",
+    "article_number": "41",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 41 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 41 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1feed995-c863-4343-80c2-93d056dbfe04",
+    "article_id": "constitution_2014:article-42",
+    "code_id": "constitution_2014",
+    "article_number": "42",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 42 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 42 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d3e21f7c-20e7-448e-b1d6-c37c8d0dccc4",
+    "article_id": "constitution_2014:article-43",
+    "code_id": "constitution_2014",
+    "article_number": "43",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 43 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 43 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "16b61cca-957c-459c-9646-925eb40a4b20",
+    "article_id": "constitution_2014:article-44",
+    "code_id": "constitution_2014",
+    "article_number": "44",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 44 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 44 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "9f023c2a-0ca9-4d4f-90a7-96fc0775a67b",
+    "article_id": "constitution_2014:article-45",
+    "code_id": "constitution_2014",
+    "article_number": "45",
+    "hierarchy_path": "الباب 3 > الأحكام العامة || Chapitre 3 > Dispositions Générales",
+    "text_ar": "الفصل 45 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 45 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c839a91d-cb88-4fed-8c2b-06d318e110c1",
+    "article_id": "constitution_2014:article-46",
+    "code_id": "constitution_2014",
+    "article_number": "46",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 46 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 46 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "18ad3cf7-d25f-49bc-9469-a58a90f33270",
+    "article_id": "constitution_2014:article-47",
+    "code_id": "constitution_2014",
+    "article_number": "47",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 47 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 47 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8929b7d6-be82-4176-b515-41e4c588c1f9",
+    "article_id": "constitution_2014:article-48",
+    "code_id": "constitution_2014",
+    "article_number": "48",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 48 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 48 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "67b40eca-0d71-4217-8236-615603e46778",
+    "article_id": "constitution_2014:article-49",
+    "code_id": "constitution_2014",
+    "article_number": "49",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 49 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 49 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8a248133-8c9e-4d1d-8fe7-26704dd604cb",
+    "article_id": "constitution_2014:article-50",
+    "code_id": "constitution_2014",
+    "article_number": "50",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 50 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 50 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d91fabc1-6b7b-4c5e-a19b-8737f4d80697",
+    "article_id": "constitution_2014:article-51",
+    "code_id": "constitution_2014",
+    "article_number": "51",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 51 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 51 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4a6b80c8-0aca-4af9-a1b8-ebde6ee74015",
+    "article_id": "constitution_2014:article-52",
+    "code_id": "constitution_2014",
+    "article_number": "52",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 52 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 52 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cdc45b9e-6b47-483b-9ddb-56255c15baa0",
+    "article_id": "constitution_2014:article-53",
+    "code_id": "constitution_2014",
+    "article_number": "53",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 53 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 53 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7ce0a5e3-afbe-485c-b421-bc34bbe47cf6",
+    "article_id": "constitution_2014:article-54",
+    "code_id": "constitution_2014",
+    "article_number": "54",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 54 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 54 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c779a83b-fddd-4bdc-8f94-bfb4d282b177",
+    "article_id": "constitution_2014:article-55",
+    "code_id": "constitution_2014",
+    "article_number": "55",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 55 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 55 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b4f453c4-09a4-4f31-bc4c-964007850151",
+    "article_id": "constitution_2014:article-56",
+    "code_id": "constitution_2014",
+    "article_number": "56",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 56 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 56 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a1f298f9-8484-487f-b478-73546aca9c3a",
+    "article_id": "constitution_2014:article-57",
+    "code_id": "constitution_2014",
+    "article_number": "57",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 57 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 57 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b1a8e703-8c03-4875-adfa-367c15d98f1a",
+    "article_id": "constitution_2014:article-58",
+    "code_id": "constitution_2014",
+    "article_number": "58",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 58 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 58 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1003fddb-113a-4746-8222-ef4c23f713c0",
+    "article_id": "constitution_2014:article-59",
+    "code_id": "constitution_2014",
+    "article_number": "59",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 59 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 59 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d9a7083e-1f96-46e2-b822-5da08e9cbe0d",
+    "article_id": "constitution_2014:article-60",
+    "code_id": "constitution_2014",
+    "article_number": "60",
+    "hierarchy_path": "الباب 4 > الأحكام العامة || Chapitre 4 > Dispositions Générales",
+    "text_ar": "الفصل 60 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 60 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "9201fad3-e7c2-46d7-94da-7ef74ff32abc",
+    "article_id": "constitution_2014:article-61",
+    "code_id": "constitution_2014",
+    "article_number": "61",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 61 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 61 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "980d448e-7e6e-4195-ad17-0e4d755513ca",
+    "article_id": "constitution_2014:article-62",
+    "code_id": "constitution_2014",
+    "article_number": "62",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 62 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 62 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "178b0b82-4cee-48fb-995c-7c2e703aae66",
+    "article_id": "constitution_2014:article-63",
+    "code_id": "constitution_2014",
+    "article_number": "63",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 63 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 63 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cf3fdfac-da2b-4376-9454-11375ea76411",
+    "article_id": "constitution_2014:article-64",
+    "code_id": "constitution_2014",
+    "article_number": "64",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 64 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 64 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "54916ec5-67c7-423b-a0e7-80b5a01b69d7",
+    "article_id": "constitution_2014:article-65",
+    "code_id": "constitution_2014",
+    "article_number": "65",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 65 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 65 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ca02491d-d100-4a87-8fa8-11e7e5b9034b",
+    "article_id": "constitution_2014:article-66",
+    "code_id": "constitution_2014",
+    "article_number": "66",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 66 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 66 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "de519e82-19de-4980-9a9a-e338d12a4b60",
+    "article_id": "constitution_2014:article-67",
+    "code_id": "constitution_2014",
+    "article_number": "67",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 67 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 67 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "dfca01c8-2ba7-4072-a89e-535e86ee3a87",
+    "article_id": "constitution_2014:article-68",
+    "code_id": "constitution_2014",
+    "article_number": "68",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 68 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 68 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d08cf9cf-a2cd-40c8-9b7e-c0a64de0a706",
+    "article_id": "constitution_2014:article-69",
+    "code_id": "constitution_2014",
+    "article_number": "69",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 69 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 69 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "3044de72-5d0a-4563-b443-7bd3b73181c8",
+    "article_id": "constitution_2014:article-70",
+    "code_id": "constitution_2014",
+    "article_number": "70",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 70 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 70 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "315ec6ec-16b3-4851-93af-148e30bf921c",
+    "article_id": "constitution_2014:article-71",
+    "code_id": "constitution_2014",
+    "article_number": "71",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 71 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 71 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6af6e0a5-b501-4b3b-9112-4c03db1b6f0b",
+    "article_id": "constitution_2014:article-72",
+    "code_id": "constitution_2014",
+    "article_number": "72",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 72 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 72 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "99dcb6a7-3682-4706-8f8f-1cbb0dbed268",
+    "article_id": "constitution_2014:article-73",
+    "code_id": "constitution_2014",
+    "article_number": "73",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 73 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 73 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8045f768-600c-4be0-95a7-a7d90cb5695e",
+    "article_id": "constitution_2014:article-74",
+    "code_id": "constitution_2014",
+    "article_number": "74",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 74 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 74 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "791e944f-32e2-4cde-b61f-681a51b07f83",
+    "article_id": "constitution_2014:article-75",
+    "code_id": "constitution_2014",
+    "article_number": "75",
+    "hierarchy_path": "الباب 5 > الأحكام العامة || Chapitre 5 > Dispositions Générales",
+    "text_ar": "الفصل 75 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 75 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "682b9306-4164-4842-98a6-85b648e7209d",
+    "article_id": "constitution_2014:article-76",
+    "code_id": "constitution_2014",
+    "article_number": "76",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 76 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 76 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1eaecb8a-324e-404d-8fad-2af53dd4e4c9",
+    "article_id": "constitution_2014:article-77",
+    "code_id": "constitution_2014",
+    "article_number": "77",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 77 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 77 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "42d3da17-aaa6-4543-a8b4-c897892a20ad",
+    "article_id": "constitution_2014:article-78",
+    "code_id": "constitution_2014",
+    "article_number": "78",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 78 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 78 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6dffb00a-67ab-4cc0-80ca-eab1ed05de93",
+    "article_id": "constitution_2014:article-79",
+    "code_id": "constitution_2014",
+    "article_number": "79",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 79 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 79 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c1674eea-53c6-49ec-89d8-be20ee7505f0",
+    "article_id": "constitution_2014:article-80",
+    "code_id": "constitution_2014",
+    "article_number": "80",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 80 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 80 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "f89bd9f2-8bbe-4043-b387-8a4bbfc05ea0",
+    "article_id": "constitution_2014:article-81",
+    "code_id": "constitution_2014",
+    "article_number": "81",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 81 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 81 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "39821729-7176-4269-8df8-cd42e8f94225",
+    "article_id": "constitution_2014:article-82",
+    "code_id": "constitution_2014",
+    "article_number": "82",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 82 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 82 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2dad0d58-29eb-4fc7-90cb-0faa94dd4bb0",
+    "article_id": "constitution_2014:article-83",
+    "code_id": "constitution_2014",
+    "article_number": "83",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 83 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 83 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "bc6b62db-bb31-40fa-be96-cdfa4e2d3d54",
+    "article_id": "constitution_2014:article-84",
+    "code_id": "constitution_2014",
+    "article_number": "84",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 84 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 84 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "80327fbd-b078-4914-8ac9-729ce37af3a9",
+    "article_id": "constitution_2014:article-85",
+    "code_id": "constitution_2014",
+    "article_number": "85",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 85 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 85 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8c762632-1ae8-4735-bafc-6986e7ecb152",
+    "article_id": "constitution_2014:article-86",
+    "code_id": "constitution_2014",
+    "article_number": "86",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 86 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 86 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "416486c8-4e6c-4d3e-9f8d-2bc8281b0aa4",
+    "article_id": "constitution_2014:article-87",
+    "code_id": "constitution_2014",
+    "article_number": "87",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 87 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 87 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "faf7c726-b6db-461f-860c-76c34bd24a3a",
+    "article_id": "constitution_2014:article-88",
+    "code_id": "constitution_2014",
+    "article_number": "88",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 88 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 88 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "bf3b9422-2d91-4679-9d14-6dcd4b285d76",
+    "article_id": "constitution_2014:article-89",
+    "code_id": "constitution_2014",
+    "article_number": "89",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 89 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 89 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cd41c2cc-07a3-4169-8623-f7ed29afab97",
+    "article_id": "constitution_2014:article-90",
+    "code_id": "constitution_2014",
+    "article_number": "90",
+    "hierarchy_path": "الباب 6 > الأحكام العامة || Chapitre 6 > Dispositions Générales",
+    "text_ar": "الفصل 90 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 90 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1b7f06d9-a99b-4629-80fb-94a83dd77a1c",
+    "article_id": "constitution_2014:article-91",
+    "code_id": "constitution_2014",
+    "article_number": "91",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 91 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 91 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4e8b582d-0214-4635-8eb8-0b32464cfa5c",
+    "article_id": "constitution_2014:article-92",
+    "code_id": "constitution_2014",
+    "article_number": "92",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 92 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 92 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "21bfe69a-20b5-4ef2-bb8e-03804af87cfc",
+    "article_id": "constitution_2014:article-93",
+    "code_id": "constitution_2014",
+    "article_number": "93",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 93 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 93 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cca86aac-1cc5-4008-b956-04bd1fa85ae4",
+    "article_id": "constitution_2014:article-94",
+    "code_id": "constitution_2014",
+    "article_number": "94",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 94 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 94 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "bc0593ce-10d9-4b34-887f-d32c9d20859f",
+    "article_id": "constitution_2014:article-95",
+    "code_id": "constitution_2014",
+    "article_number": "95",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 95 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 95 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "112b5baf-86c6-40b4-96e6-9f1ad3a650f3",
+    "article_id": "constitution_2014:article-96",
+    "code_id": "constitution_2014",
+    "article_number": "96",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 96 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 96 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "09963bf0-6f4e-4523-9a93-cd1336270e5f",
+    "article_id": "constitution_2014:article-97",
+    "code_id": "constitution_2014",
+    "article_number": "97",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 97 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 97 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a177d060-7c49-451a-9f98-89103074cd81",
+    "article_id": "constitution_2014:article-98",
+    "code_id": "constitution_2014",
+    "article_number": "98",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 98 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 98 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c62f8692-7aee-416b-bc9b-065042bf5914",
+    "article_id": "constitution_2014:article-99",
+    "code_id": "constitution_2014",
+    "article_number": "99",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 99 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 99 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4590a7bd-177e-4e09-aeb7-569a32dda731",
+    "article_id": "constitution_2014:article-100",
+    "code_id": "constitution_2014",
+    "article_number": "100",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 100 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 100 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0021"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6f5e5e79-0bf1-46e1-bd91-7415398ca006",
+    "article_id": "constitution_2014:article-101",
+    "code_id": "constitution_2014",
+    "article_number": "101",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 101 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 101 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0021"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "685c378c-810c-41e8-a604-a25c447a941d",
+    "article_id": "constitution_2014:article-102",
+    "code_id": "constitution_2014",
+    "article_number": "102",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 102 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 102 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0021"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4c71b93c-56e7-4b1e-8560-98f3b5d599fc",
+    "article_id": "constitution_2014:article-103",
+    "code_id": "constitution_2014",
+    "article_number": "103",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 103 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 103 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0021"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "cec5865e-a1f2-4cb6-a714-f39d6ee1b024",
+    "article_id": "constitution_2014:article-104",
+    "code_id": "constitution_2014",
+    "article_number": "104",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 104 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 104 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0021"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "738d0494-2a50-493d-aa67-6c1ac84ac123",
+    "article_id": "constitution_2014:article-105",
+    "code_id": "constitution_2014",
+    "article_number": "105",
+    "hierarchy_path": "الباب 7 > الأحكام العامة || Chapitre 7 > Dispositions Générales",
+    "text_ar": "الفصل 105 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 105 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0022"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1ddd9d2c-bb3c-4176-aeee-6099c0c21f64",
+    "article_id": "constitution_2014:article-106",
+    "code_id": "constitution_2014",
+    "article_number": "106",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 106 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 106 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0022"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "48423d3e-9c8e-4ec6-914f-4ed634062e45",
+    "article_id": "constitution_2014:article-107",
+    "code_id": "constitution_2014",
+    "article_number": "107",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 107 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 107 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0022"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b7d576e9-bcd6-4d16-a1e4-e3f3397e89de",
+    "article_id": "constitution_2014:article-108",
+    "code_id": "constitution_2014",
+    "article_number": "108",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 108 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 108 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0022"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "98032a3b-5d5d-4e66-b7b6-11962972e36e",
+    "article_id": "constitution_2014:article-109",
+    "code_id": "constitution_2014",
+    "article_number": "109",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 109 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 109 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0022"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "e397010a-0613-4062-b63a-ff755e8f819b",
+    "article_id": "constitution_2014:article-110",
+    "code_id": "constitution_2014",
+    "article_number": "110",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 110 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 110 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0023"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ac842789-ea41-4849-8010-590d457bb036",
+    "article_id": "constitution_2014:article-111",
+    "code_id": "constitution_2014",
+    "article_number": "111",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 111 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 111 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0023"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2ecd714c-bfff-4cdc-b0ac-e178b0ff8ee0",
+    "article_id": "constitution_2014:article-112",
+    "code_id": "constitution_2014",
+    "article_number": "112",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 112 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 112 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0023"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "32275b1f-8186-4b84-a18f-56bca79f8316",
+    "article_id": "constitution_2014:article-113",
+    "code_id": "constitution_2014",
+    "article_number": "113",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 113 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 113 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0023"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4837e714-e87b-462e-ad4b-03e63d1441a2",
+    "article_id": "constitution_2014:article-114",
+    "code_id": "constitution_2014",
+    "article_number": "114",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 114 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 114 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0023"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6046e689-2d52-407c-921f-547db5975525",
+    "article_id": "constitution_2014:article-115",
+    "code_id": "constitution_2014",
+    "article_number": "115",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 115 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 115 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0024"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "372227f3-0b0e-47ba-8ccd-7106f2c3ab65",
+    "article_id": "constitution_2014:article-116",
+    "code_id": "constitution_2014",
+    "article_number": "116",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 116 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 116 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0024"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7bfdf627-9722-47a8-bd2c-10b492fbeae7",
+    "article_id": "constitution_2014:article-117",
+    "code_id": "constitution_2014",
+    "article_number": "117",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 117 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 117 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0024"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2c7cd721-2e47-4108-8580-0e408043b264",
+    "article_id": "constitution_2014:article-118",
+    "code_id": "constitution_2014",
+    "article_number": "118",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 118 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 118 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0024"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6c57b81d-9714-448c-bd31-bf81331268f6",
+    "article_id": "constitution_2014:article-119",
+    "code_id": "constitution_2014",
+    "article_number": "119",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 119 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 119 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0024"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "250524a4-3ffa-4d22-a283-983a0c6ae29d",
+    "article_id": "constitution_2014:article-120",
+    "code_id": "constitution_2014",
+    "article_number": "120",
+    "hierarchy_path": "الباب 8 > الأحكام العامة || Chapitre 8 > Dispositions Générales",
+    "text_ar": "الفصل 120 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 120 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0025"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "25d033d4-ff71-49b3-91c5-cda1496c30cf",
+    "article_id": "constitution_2014:article-121",
+    "code_id": "constitution_2014",
+    "article_number": "121",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 121 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 121 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0025"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a0a385e6-20fa-40c7-8067-fe53e0871497",
+    "article_id": "constitution_2014:article-122",
+    "code_id": "constitution_2014",
+    "article_number": "122",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 122 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 122 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0025"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "14c59286-55e2-41cb-be7e-39130893daca",
+    "article_id": "constitution_2014:article-123",
+    "code_id": "constitution_2014",
+    "article_number": "123",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 123 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 123 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0025"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "e0d6bf14-de35-49a2-aa04-c121be730189",
+    "article_id": "constitution_2014:article-124",
+    "code_id": "constitution_2014",
+    "article_number": "124",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 124 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 124 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0025"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8857ca44-231d-4ee5-a59d-9df95c5f89b9",
+    "article_id": "constitution_2014:article-125",
+    "code_id": "constitution_2014",
+    "article_number": "125",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 125 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 125 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0026"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1710b872-db58-4499-8b00-481fb1acaad6",
+    "article_id": "constitution_2014:article-126",
+    "code_id": "constitution_2014",
+    "article_number": "126",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 126 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 126 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0026"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a0f07c25-3b9f-4aa1-82a1-a4753a3a1f91",
+    "article_id": "constitution_2014:article-127",
+    "code_id": "constitution_2014",
+    "article_number": "127",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 127 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 127 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0026"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "77a04c87-087e-4815-b6ab-17c969a5661f",
+    "article_id": "constitution_2014:article-128",
+    "code_id": "constitution_2014",
+    "article_number": "128",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 128 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 128 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0026"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2cf4b657-78e6-4be0-8bc6-ea77311001f2",
+    "article_id": "constitution_2014:article-129",
+    "code_id": "constitution_2014",
+    "article_number": "129",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 129 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 129 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0026"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "e1c80ed7-1998-4943-8ad3-28a97bef5dfd",
+    "article_id": "constitution_2014:article-130",
+    "code_id": "constitution_2014",
+    "article_number": "130",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 130 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 130 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0027"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "5a41f866-8e74-4948-a9b4-e0308c138363",
+    "article_id": "constitution_2014:article-131",
+    "code_id": "constitution_2014",
+    "article_number": "131",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 131 - تونس دولة حرة، مستقلة، ذات سيادة، الإسلام دينها، والعربية لغتها، والجمهورية نظامها.",
+    "text_fr": "Article 131 - La Tunisie est un Etat libre, indépendant et souverain; sa religion est l'Islam, sa langue l'arabe et son régime la République.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0027"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "fe43185d-7f61-4f29-8577-72029fb2a07f",
+    "article_id": "constitution_2014:article-132",
+    "code_id": "constitution_2014",
+    "article_number": "132",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 132 - الشعب هو صاحب السيادة ومصدر السلطات، ويمارسها عبر ممثليه المنتخبين أو عبر الاستفتاء.",
+    "text_fr": "Article 132 - Le peuple est souverain, source des pouvoirs, qu'il exerce par ses représentants élus ou par voie de référendum.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0027"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "0af9bda7-c84c-4028-a52e-501808d34be6",
+    "article_id": "constitution_2014:article-133",
+    "code_id": "constitution_2014",
+    "article_number": "133",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 133 - علم الجمهورية التونسية أحمر يوسطه قرص أبيض به نجم ذو خمس أشعة يحيط به هلال أحمر حسبما يضبطه القانون.",
+    "text_fr": "Article 133 - Le drapeau de la République Tunisienne est rouge, il comporte en son milieu un cercle blanc contenant une étoile à cinq branches entourée d'un croissant rouge.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0027"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "218c5987-bbd0-46bb-a7e9-2940d2cbbefd",
+    "article_id": "constitution_2014:article-134",
+    "code_id": "constitution_2014",
+    "article_number": "134",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 134 - تلتزم الدولة بالعمل على تحقيق العدالة الاجتماعية، والتنمية المستدامة، والتوازن بين الجهات.",
+    "text_fr": "Article 134 - L'Etat s'engage à œuvrer pour réaliser la justice sociale, le développement durable et l'équilibre régional.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0027"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "84e42e24-1984-4235-9a88-39b4719efc30",
+    "article_id": "constitution_2014:article-135",
+    "code_id": "constitution_2014",
+    "article_number": "135",
+    "hierarchy_path": "الباب 9 > الأحكام العامة || Chapitre 9 > Dispositions Générales",
+    "text_ar": "الفصل 135 - المواطنون والمواطنات متساوون في الحقوق والواجبات، وهم سواء أمام القانون دون تمييز.",
+    "text_fr": "Article 135 - Les citoyens et les citoyennes sont égaux en droits et en devoirs. Ils sont égaux devant la loi sans discrimination.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0028"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "35eae2d7-d7bd-46cf-999a-35ae1030ace6",
+    "article_id": "constitution_2014:article-136",
+    "code_id": "constitution_2014",
+    "article_number": "136",
+    "hierarchy_path": "الباب 10 > الأحكام العامة || Chapitre 10 > Dispositions Générales",
+    "text_ar": "الفصل 136 - حرية الرأي والفكر والتعبير والإعلام والنشر مضمونة. لا يجوز ممارسة رقابة مسبقة على هذه الحريات.",
+    "text_fr": "Article 136 - Les libertés d'opinion, de pensée, d'expression, d'information et de publication sont garanties. Aucun contrôle préalable n'est exercé.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0028"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d6f20c9c-b23c-4473-b777-207ea47e28ba",
+    "article_id": "constitution_2014:article-137",
+    "code_id": "constitution_2014",
+    "article_number": "137",
+    "hierarchy_path": "الباب 10 > الأحكام العامة || Chapitre 10 > Dispositions Générales",
+    "text_ar": "الفصل 137 - حرية الاجتماع والتظاهر السلمي مضمونة، وتمارس وفق ما يضبطه القانون.",
+    "text_fr": "Article 137 - Le droit d'assemblée et de manifestation pacifiques est garanti et s'exerce conformément à la loi.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0028"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "f34ef3e7-6b02-45c7-b499-acfd588108e2",
+    "article_id": "constitution_2014:article-138",
+    "code_id": "constitution_2014",
+    "article_number": "138",
+    "hierarchy_path": "الباب 10 > الأحكام العامة || Chapitre 10 > Dispositions Générales",
+    "text_ar": "الفصل 138 - الحق في الملكية مضمون، ولا يمكن الحد منه إلا بمقتضى القانون وبمقابل عادل.",
+    "text_fr": "Article 138 - Le droit de propriété est garanti. Il ne peut y être porté atteinte que par la loi et moyennant une juste indemnisation.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0028"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "1906bbf3-12ab-48e7-a0ab-35f68af7e806",
+    "article_id": "constitution_2014:article-139",
+    "code_id": "constitution_2014",
+    "article_number": "139",
+    "hierarchy_path": "الباب 10 > الأحكام العامة || Chapitre 10 > Dispositions Générales",
+    "text_ar": "الفصل 139 - تضمن الدولة تكافؤ الفرص بين الرجل والمرأة في تحمل مختلف المسؤوليات وفي جميع المجالات.",
+    "text_fr": "Article 139 - L'Etat garantit l'égalité des chances entre l'homme et la femme pour l'accès aux différentes responsabilités.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0028"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "105bd2eb-9713-46e7-ba08-ff015fb8f892",
+    "article_id": "constitution_2014:article-140",
+    "code_id": "constitution_2014",
+    "article_number": "140",
+    "hierarchy_path": "الباب 10 > الأحكام العامة || Chapitre 10 > Dispositions Générales",
+    "text_ar": "الفصل 140 - القضاء سلطة مستقلة تضمن إقامة العدل، وعلوية الدستور، وسيادة القانون، وحماية الحقوق والحريات.",
+    "text_fr": "Article 140 - La justice est un pouvoir indépendant qui garantit l'équité, la suprématie de la Constitution et la protection des droits.",
+    "valid_from": "2014-02-10",
+    "valid_to": "2022-08-15",
+    "status": "superseded",
+    "source_ref": {
+      "source_id": "src-constitution-2014-ar-fr",
+      "page_ids": [
+        "p0029"
+      ],
+      "official_reference": "Journal Officiel de la République Tunisienne, issue 12, 2014"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "6eeff5cf-3236-4e73-b0ef-22f22160893f",
+    "article_id": "finance_law_2020:article-1",
+    "code_id": "finance_law_2020",
+    "article_number": "1",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 1.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0001"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "75f63d46-7064-4785-b410-f01719d985b8",
+    "article_id": "finance_law_2020:article-2",
+    "code_id": "finance_law_2020",
+    "article_number": "2",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 2.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0001"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "881e40b2-5355-46e5-936c-c18eeb966040",
+    "article_id": "finance_law_2020:article-3",
+    "code_id": "finance_law_2020",
+    "article_number": "3",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 3.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "98c6523c-0fff-401d-bc25-8601b33dbf64",
+    "article_id": "finance_law_2020:article-4",
+    "code_id": "finance_law_2020",
+    "article_number": "4",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 4.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "92faac2a-1861-4ece-9440-1fb983e73007",
+    "article_id": "finance_law_2020:article-5",
+    "code_id": "finance_law_2020",
+    "article_number": "5",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 5.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0002"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8552023a-4251-4441-8408-2bfdc3164af9",
+    "article_id": "finance_law_2020:article-6",
+    "code_id": "finance_law_2020",
+    "article_number": "6",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 6.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "553ffa3e-919c-4969-9fff-60b1cddd1eaf",
+    "article_id": "finance_law_2020:article-7",
+    "code_id": "finance_law_2020",
+    "article_number": "7",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 7.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "02318b54-d8b0-4035-94e6-37640682ef31",
+    "article_id": "finance_law_2020:article-8",
+    "code_id": "finance_law_2020",
+    "article_number": "8",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 8.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0003"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "81db3302-9946-4f5a-bb06-b406e69fd4cb",
+    "article_id": "finance_law_2020:article-9",
+    "code_id": "finance_law_2020",
+    "article_number": "9",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 9.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7bff6a38-765b-4bbf-9ea7-cc456ca7f59d",
+    "article_id": "finance_law_2020:article-10",
+    "code_id": "finance_law_2020",
+    "article_number": "10",
+    "hierarchy_path": "الباب 1 > الأحكام المالية || Titre 1 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 10.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7fdc6145-1698-454b-b7a5-4853001566a0",
+    "article_id": "finance_law_2020:article-11",
+    "code_id": "finance_law_2020",
+    "article_number": "11",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 11.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0004"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "585ed910-229c-4c63-87f7-a297793b4e30",
+    "article_id": "finance_law_2020:article-12",
+    "code_id": "finance_law_2020",
+    "article_number": "12",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 12.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7187833a-6514-454c-9361-f105f107f631",
+    "article_id": "finance_law_2020:article-13",
+    "code_id": "finance_law_2020",
+    "article_number": "13",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 13.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "9f9895d8-07af-411e-9966-ab3bc19298e2",
+    "article_id": "finance_law_2020:article-14",
+    "code_id": "finance_law_2020",
+    "article_number": "14",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 14.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0005"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "df31c44d-72ea-4917-bfb2-7c7561ee47e2",
+    "article_id": "finance_law_2020:article-15",
+    "code_id": "finance_law_2020",
+    "article_number": "15",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 15.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2c9c7b66-b142-4221-85fb-a00b5ce8d67d",
+    "article_id": "finance_law_2020:article-16",
+    "code_id": "finance_law_2020",
+    "article_number": "16",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 16.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "e54b3aab-659d-4649-aa8a-2148b8f2f53e",
+    "article_id": "finance_law_2020:article-17",
+    "code_id": "finance_law_2020",
+    "article_number": "17",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 17.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0006"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "bdd02020-605b-45a1-8e18-1c246dc08f29",
+    "article_id": "finance_law_2020:article-18",
+    "code_id": "finance_law_2020",
+    "article_number": "18",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 18.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "65b5638c-be10-417b-96f8-992293dd60b0",
+    "article_id": "finance_law_2020:article-19",
+    "code_id": "finance_law_2020",
+    "article_number": "19",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 19.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "71e88eca-4518-44a5-a9fe-d5ace14a7939",
+    "article_id": "finance_law_2020:article-20",
+    "code_id": "finance_law_2020",
+    "article_number": "20",
+    "hierarchy_path": "الباب 2 > الأحكام المالية || Titre 2 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 20.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0007"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b015a904-f4c0-4dee-8ab2-5ceac1816bb5",
+    "article_id": "finance_law_2020:article-21",
+    "code_id": "finance_law_2020",
+    "article_number": "21",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 21.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c87da16b-8c3a-49c6-854f-1f1b167a6b87",
+    "article_id": "finance_law_2020:article-22",
+    "code_id": "finance_law_2020",
+    "article_number": "22",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 22.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "43e9af76-aab2-4c2f-ab11-67bc5e32a61f",
+    "article_id": "finance_law_2020:article-23",
+    "code_id": "finance_law_2020",
+    "article_number": "23",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 23.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0008"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a3640b67-0e9a-4d66-9873-880b9b1244b7",
+    "article_id": "finance_law_2020:article-24",
+    "code_id": "finance_law_2020",
+    "article_number": "24",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 24.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a22ab14c-df4e-4fa6-894b-f7b31460aefa",
+    "article_id": "finance_law_2020:article-25",
+    "code_id": "finance_law_2020",
+    "article_number": "25",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 25.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ce007153-54db-4de4-87ed-849d551034cb",
+    "article_id": "finance_law_2020:article-26",
+    "code_id": "finance_law_2020",
+    "article_number": "26",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 26.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0009"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "d23c72d4-bdfb-4507-891d-4f0e0f040adf",
+    "article_id": "finance_law_2020:article-27",
+    "code_id": "finance_law_2020",
+    "article_number": "27",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 27.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2aaf7085-d0f3-4155-b2cb-18a5fa028c3b",
+    "article_id": "finance_law_2020:article-28",
+    "code_id": "finance_law_2020",
+    "article_number": "28",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 28.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "dd602bc2-3e76-4042-b5ee-95b6da671677",
+    "article_id": "finance_law_2020:article-29",
+    "code_id": "finance_law_2020",
+    "article_number": "29",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 29.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0010"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "f76b0a97-2754-4760-a4c5-3e95ed5686b6",
+    "article_id": "finance_law_2020:article-30",
+    "code_id": "finance_law_2020",
+    "article_number": "30",
+    "hierarchy_path": "الباب 3 > الأحكام المالية || Titre 3 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 30.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "021c449d-feb6-42a0-a504-13f51e944b37",
+    "article_id": "finance_law_2020:article-31",
+    "code_id": "finance_law_2020",
+    "article_number": "31",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 31.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b2e52da7-16b1-432f-83dc-30c18c4b2974",
+    "article_id": "finance_law_2020:article-32",
+    "code_id": "finance_law_2020",
+    "article_number": "32",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 32.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0011"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "31f660e8-9db8-4cd0-92e7-35ab19a511e4",
+    "article_id": "finance_law_2020:article-33",
+    "code_id": "finance_law_2020",
+    "article_number": "33",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 33.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c5255ead-f31f-4a6f-89bd-6fea9d854fa5",
+    "article_id": "finance_law_2020:article-34",
+    "code_id": "finance_law_2020",
+    "article_number": "34",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 34.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7e82daaa-8911-4cdd-8a33-871ead144ee9",
+    "article_id": "finance_law_2020:article-35",
+    "code_id": "finance_law_2020",
+    "article_number": "35",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 35.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0012"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c3e3e09e-63e4-4f82-b658-c4e2091d181e",
+    "article_id": "finance_law_2020:article-36",
+    "code_id": "finance_law_2020",
+    "article_number": "36",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 36.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "5ef37b95-3525-4f2a-8c5d-b3e81b210c9a",
+    "article_id": "finance_law_2020:article-37",
+    "code_id": "finance_law_2020",
+    "article_number": "37",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 37.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a61dda94-30f9-4729-82e1-88e3c05f2174",
+    "article_id": "finance_law_2020:article-38",
+    "code_id": "finance_law_2020",
+    "article_number": "38",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 38.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0013"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "06cc900b-13e8-44e1-ac30-eb512368ed00",
+    "article_id": "finance_law_2020:article-39",
+    "code_id": "finance_law_2020",
+    "article_number": "39",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 39.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "fb69d53b-03fc-45ac-9379-e8508ff1c650",
+    "article_id": "finance_law_2020:article-40",
+    "code_id": "finance_law_2020",
+    "article_number": "40",
+    "hierarchy_path": "الباب 4 > الأحكام المالية || Titre 4 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 40.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "ffbd9007-5465-468f-81f3-bcae2b0c0eb9",
+    "article_id": "finance_law_2020:article-41",
+    "code_id": "finance_law_2020",
+    "article_number": "41",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 41.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0014"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "775c6b28-e43f-426d-9d43-6415e0da53d8",
+    "article_id": "finance_law_2020:article-42",
+    "code_id": "finance_law_2020",
+    "article_number": "42",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 42.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "2b870fa5-b516-4d2e-b4c6-4cf4647c4781",
+    "article_id": "finance_law_2020:article-43",
+    "code_id": "finance_law_2020",
+    "article_number": "43",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 43.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "b27ac803-2305-4341-a98c-c48398f9423a",
+    "article_id": "finance_law_2020:article-44",
+    "code_id": "finance_law_2020",
+    "article_number": "44",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 44.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0015"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "111e5364-8694-4faf-a0e9-e7f03b99a66b",
+    "article_id": "finance_law_2020:article-45",
+    "code_id": "finance_law_2020",
+    "article_number": "45",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 45.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "0ed3cfb9-ad49-48fe-b07c-8ccb27606571",
+    "article_id": "finance_law_2020:article-46",
+    "code_id": "finance_law_2020",
+    "article_number": "46",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 46.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "063f289f-d305-4c99-b631-7b407dfd21dd",
+    "article_id": "finance_law_2020:article-47",
+    "code_id": "finance_law_2020",
+    "article_number": "47",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 47.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0016"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "dee2c113-0403-471b-8e15-6033078a873f",
+    "article_id": "finance_law_2020:article-48",
+    "code_id": "finance_law_2020",
+    "article_number": "48",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 48.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c756d7fc-37ea-4784-934f-11003eef11e0",
+    "article_id": "finance_law_2020:article-49",
+    "code_id": "finance_law_2020",
+    "article_number": "49",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 49.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "4cd2079f-a010-4390-9ff6-70a8ed7d9540",
+    "article_id": "finance_law_2020:article-50",
+    "code_id": "finance_law_2020",
+    "article_number": "50",
+    "hierarchy_path": "الباب 5 > الأحكام المالية || Titre 5 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 50.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0017"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "a9735eae-24ae-4c09-b267-815d22e4a531",
+    "article_id": "finance_law_2020:article-51",
+    "code_id": "finance_law_2020",
+    "article_number": "51",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 51.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "e0fe0e29-0fcb-43ec-8771-95d62b2f0ec1",
+    "article_id": "finance_law_2020:article-52",
+    "code_id": "finance_law_2020",
+    "article_number": "52",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 52.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "f9a0c716-7007-4655-9774-48785a96c97f",
+    "article_id": "finance_law_2020:article-53",
+    "code_id": "finance_law_2020",
+    "article_number": "53",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 53.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0018"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "c039bcd5-2b45-4be2-be02-d815d65042cb",
+    "article_id": "finance_law_2020:article-54",
+    "code_id": "finance_law_2020",
+    "article_number": "54",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 54.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "20a7b546-18b7-4701-bb1d-895d9125f210",
+    "article_id": "finance_law_2020:article-55",
+    "code_id": "finance_law_2020",
+    "article_number": "55",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 55.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "59a76cf5-7e0e-417c-b042-562273788e9a",
+    "article_id": "finance_law_2020:article-56",
+    "code_id": "finance_law_2020",
+    "article_number": "56",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 56.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0019"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "872c564c-f15f-4959-938d-b7b28d9b33e6",
+    "article_id": "finance_law_2020:article-57",
+    "code_id": "finance_law_2020",
+    "article_number": "57",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 57.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "7d7a49b6-5085-46c4-9084-ba35c2f7c987",
+    "article_id": "finance_law_2020:article-58",
+    "code_id": "finance_law_2020",
+    "article_number": "58",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 58.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "8b4e8c08-21f9-4071-b1e3-c2b641c29fe4",
+    "article_id": "finance_law_2020:article-59",
+    "code_id": "finance_law_2020",
+    "article_number": "59",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 59.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0020"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  },
+  {
+    "version_id": "5f4f3729-16eb-4d6a-8f0b-f73efa20ac13",
+    "article_id": "finance_law_2020:article-60",
+    "code_id": "finance_law_2020",
+    "article_number": "60",
+    "hierarchy_path": "الباب 6 > الأحكام المالية || Titre 6 > Dispositions Financières",
+    "text_ar": "يرخص للحكومة جباية الضرائب والمعاليم العمومية المحددة بالجدول الملحق بهذا القانون لسنة 2020. الفصل 60.",
+    "text_fr": null,
+    "valid_from": "2020-01-01",
+    "valid_to": "9999-12-31",
+    "status": "active",
+    "source_ref": {
+      "source_id": "src-finance-law-2020-ar",
+      "page_ids": [
+        "p0021"
+      ],
+      "official_reference": "الرائد الرسمي للجمهورية التونسية، قانون المالية لسنة 2020"
+    },
+    "created_by_op": "seed-fixture-run-01"
+  }
+]
