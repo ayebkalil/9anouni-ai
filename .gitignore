@@ -30,6 +30,17 @@ venv/
 .venv/
 env/
 .env
+.env*.local
+!.env.example
+
+# Node dependencies
+node_modules/
+*/node_modules/
+
+# Logs & coverage
+*.log
+.coverage
+htmlcov/
 
 # Database
 *.sqlite
@@ -41,8 +52,6 @@ env/
 
 # Ingestion / processing temporary data (unless raw is committed)
 data/processed/
-data/raw/finance_law_*/original.pdf
-data/raw/finance_law_*/manifest.json
 
 # Scratch files
 scratch/

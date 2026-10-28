@@ -69,10 +69,18 @@ def clean_ocr_text(text: str) -> str:
         # Skip JORT gazette headers/footers
         if "الرائد الرسمي" in stripped or "الجمهورية التونسية" in stripped:
             continue
-        if re.search(r"صفحــة\s*\d+", stripped) or re.search(r"صفحة\s*\d+", stripped):
+        
+        # Only delete purely standalone page numbers
+        if re.search(r"^صفحــة\s*\d+$", stripped) or re.search(r"^صفحة\s*\d+$", stripped):
             continue
-        if re.search(r"عدد\s*\d+", stripped) or re.search(r"ديسمبر\s*\d+", stripped) or re.search(r"جانفي|فيفري|مارس|أفريل|ماي|جوان|جويلية|أوت|سبتمبر|أكتوبر|نوفمبر|ديسمبر", stripped):
-            continue
+            
+        # Only delete purely standalone issue numbers or dates if they are very short lines (e.g. headers/footers)
+        if len(stripped) < 40:
+            if re.search(r"^عدد\s*\d+$", stripped):
+                continue
+            if re.search(r"^\d+\s+(جانفي|فيفري|مارس|أفريل|ماي|جوان|جويلية|أوت|سبتمبر|أكتوبر|نوفمبر|ديسمبر)\s+\d+$", stripped):
+                continue
+                
         cleaned_lines.append(stripped)
     return "\n".join(cleaned_lines)
 
@@ -82,8 +90,8 @@ def parse_arabic_article_header(line: str) -> Optional[Tuple[str, str, bool]]:
     Returns: (normalized_number, display_number, is_new) or None
     Example: 'الفصل الأول (جديد):' -> ('1', 'الفصل الأول', True)
     """
-    # Regex: الفصل + written number or digit + optional modifier + optional (جديد)
-    pattern = r"^\s*الفصل\s+((?:\d+|الأول|الثاني|الثالث|الرابع|الخامس|السادس|السابع|الثامن|التاسع|العاشر|الحادي عشر|الثاني عشر|الثالث عشر|الرابع عشر|الخامس عشر|السادس عشر|السابع عشر|الثامن عشر|التاسع عشر|العشرون|الحادي والعشرون|الثاني والعشرون))\s*(مكرر|ثالثا|رابعا|خامسا|سادسا|سابعا|ثامنا|تاسعا|عاشرا)?\s*(\(جديد\))?(?:[:\.\-\s]|$)"
+    # Regex: الفصل + written number or digit or / + optional modifier + optional (جديد)
+    pattern = r"^\s*الفصل\s+((?:\d+|/|الأول|الثاني|الثالث|الرابع|الخامس|السادس|السابع|الثامن|التاسع|العاشر|الحادي عشر|الثاني عشر|الثالث عشر|الرابع عشر|الخامس عشر|السادس عشر|السابع عشر|الثامن عشر|التاسع عشر|العشرون|الحادي والعشرون|الثاني والعشرون))\s*(مكرر|ثالثا|رابعا|خامسا|سادسا|سابعا|ثامنا|تاسعا|عاشرا)?\s*(\(جديد\))?(?!\s*من\b)(?:[:\.\-\s]|$)"
     match = re.search(pattern, line)
     if not match:
         return None
@@ -93,7 +101,10 @@ def parse_arabic_article_header(line: str) -> Optional[Tuple[str, str, bool]]:
     is_new = bool(match.group(3))
     
     # Normalize the number part
-    norm_num = ARABIC_NUMBERS.get(raw_num, raw_num)
+    if raw_num == "/":
+        norm_num = "7"
+    else:
+        norm_num = ARABIC_NUMBERS.get(raw_num, raw_num)
     if modifier:
         suffix = MODIFIERS.get(modifier, modifier)
         norm_num = f"{norm_num}-{suffix}"
@@ -110,7 +121,7 @@ def parse_french_article_header(line: str) -> Optional[Tuple[str, str, bool]]:
     Returns: (normalized_number, display_number, is_new) or None
     Example: 'Article premier (nouveau)' -> ('1', 'Article premier', True)
     """
-    pattern = r"^\s*Article\s+(premier|\d+)\s*(bis|ter|quater|quinquies|sexies|septies|octies|novies|decies)?\s*(\(nouveau\))?(?:[:\.\-\s]|$)"
+    pattern = r"^\s*Article\s+(premier|\d+)\s*(bis|ter|quater|quinquies|sexies|septies|octies|novies|decies)?\s*(\(nouveau\))?(?!\s*(?:du|de|de\s+la)\b)(?:[:\.\-\s]|$)"
     match = re.search(pattern, line, re.IGNORECASE)
     if not match:
         return None
@@ -206,6 +217,7 @@ class DocumentParser:
                 raw_text = block["text"]
                 cleaned_text = clean_ocr_text(raw_text)
                 
+                block_type = block.get("type", "article_body")
                 lines = cleaned_text.split("\n")
                 
                 for _idx, line in enumerate(lines):
@@ -214,7 +226,7 @@ class DocumentParser:
                         continue
                         
                     # Check for hierarchy changes
-                    h_info = parse_hierarchy_heading(stripped_line)
+                    h_info = None if block_type == "table" else parse_hierarchy_heading(stripped_line)
                     if h_info:
                         level, val = h_info
                         self.current_hierarchy[level] = val
@@ -237,10 +249,18 @@ class DocumentParser:
                         
                     # Check for article starts
                     art_info = None
-                    if language == "ar":
-                        art_info = parse_arabic_article_header(stripped_line)
-                    else:
-                        art_info = parse_french_article_header(stripped_line)
+                    if block_type != "table":
+                        if language == "ar":
+                            art_info = parse_arabic_article_header(stripped_line)
+                        else:
+                            art_info = parse_french_article_header(stripped_line)
+                            
+                        # If this is a finance law, ignore articles with modifiers (bis, ter, etc.)
+                        # because they are always quoted amendments to other codes, not the finance law itself.
+                        if art_info and self.code_id.startswith("finance_law_"):
+                            norm_num, _, _ = art_info
+                            if "-" in norm_num:
+                                art_info = None  # Treat as body text of the current article
                         
                     if art_info:
                         # Save the previous article if we had one
@@ -248,6 +268,13 @@ class DocumentParser:
                             articles.append(current_article)
                             
                         norm_num, display_num, is_new = art_info
+                        
+                        # Apply targeted fixes for known OCR mistranslations of headers
+                        if self.code_id == "finance_law_2020" and norm_num == "258":
+                            norm_num, display_num = "28", "الفصل 28"
+                        elif self.code_id == "finance_law_2026" and norm_num == "538":
+                            norm_num, display_num = "58", "الفصل 58"
+                            
                         article_id = f"{self.code_id}:article-{norm_num}"
                         
                         current_article = {
