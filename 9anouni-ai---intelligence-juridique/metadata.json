@@ -1,0 +1,6 @@
+{
+  "name": "9anouni AI - Intelligence Juridique",
+  "description": "Plateforme souveraine d'intelligence juridique tunisienne de haute précision fondée sur le JORT et la jurisprudence de la Cour de Cassation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
