@@ -1,0 +1,15 @@
+{
+    "source_id": "src-finance-law-2026-ar",
+    "code_id": "finance_law_2026",
+    "source_date": "2025-12-12",
+    "language": "ar",
+    "format": "scanned_pdf",
+    "page_count": 101,
+    "sha256": "84f96735cc24a3fd90920e83c7fe4de2d0b22c128ada5b48df8a16135f053fc4",
+    "official_reference": {
+        "publisher": "Ministry of Finance / وزارة المالية",
+        "url": "https://www.finances.gov.tn/ar/loi_finance"
+    },
+    "reuse_status": "official_public_law",
+    "ingestion_notes": "Official Arabic version manually provided by user."
+}

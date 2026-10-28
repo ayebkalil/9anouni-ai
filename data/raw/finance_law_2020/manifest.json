@@ -1,0 +1,15 @@
+{
+    "source_id": "src-finance-law-2020-ar",
+    "code_id": "finance_law_2020",
+    "source_date": "2019-12-23",
+    "language": "ar",
+    "format": "scanned_pdf",
+    "page_count": 94,
+    "sha256": "e1643603959f1d673956909839c5373f47fcaa2f078e5b3933e41ea1bdcf81ef",
+    "official_reference": {
+        "publisher": "Ministry of Finance / وزارة المالية",
+        "url": "https://www.finances.gov.tn/ar/loi_finance"
+    },
+    "reuse_status": "official_public_law",
+    "ingestion_notes": "Official Arabic version manually provided by user."
+}
